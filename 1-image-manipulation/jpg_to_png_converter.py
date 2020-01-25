@@ -1,4 +1,4 @@
-# $ python JPGtoPNGconverter.py Pokedex/ new/
+# $ python3 JPGtoPNGconverter.py <input dir> <output dir>
 # First Argument: Source Folder of Images
 # Second Argument: Output Folder of Images in PNG Format
 

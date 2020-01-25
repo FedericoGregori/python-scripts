@@ -1,9 +1,8 @@
 # Receive as arguments the pdf to combine and put the watermark.
-# Watermark file should be at the same directory level and be called
-# wtr.pdf
+# Watermark file should be at the same directory level and be called "wtr.pdf"
 
-import PyPDF2
 import sys
+import PyPDF2
 
 inputs = sys.argv[1:]
 
@@ -34,4 +33,3 @@ def pdf_watermark():
 pdf_combiner(inputs)
 
 pdf_watermark()
-
