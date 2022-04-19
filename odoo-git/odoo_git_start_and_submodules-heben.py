@@ -18,10 +18,11 @@ except ImportError as e:
 
 REPOS_MASTER = [
     ## Moldeo Interactive
-    {
-        "name": "ctmil/account_debt_management",
-        "url": "https://github.com/ctmil/account_debt_management.git",
-    },
+    # Use the calyx-servicios/third-party-apps version.
+    # {
+    #     "name": "ctmil/account_debt_management",
+    #     "url": "https://github.com/ctmil/account_debt_management.git",
+    # },
 ]
 
 REPOS = [
