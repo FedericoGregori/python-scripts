@@ -46,6 +46,20 @@ REPOS = [
         "name": "calyx-servicios/third-party-apps",
         "url": "https://github.com/calyx-servicios/third-party-apps.git",
     },
+    ## Cybrosys
+    {
+        "name": "CybroOdoo/CybroAddons",
+        "url": "https://github.com/CybroOdoo/CybroAddons.git",
+    },
+    ## Moldeo Interactive
+    {
+        "name": "ctmil/meli_oerp",
+        "url": "https://github.com/ctmil/meli_oerp.git",
+    },
+    {
+        "name": "ctmil/payment_mercadopago",
+        "url": "https://github.com/ctmil/payment_mercadopago.git",
+    },
     ## Jorge Obiols
     {
         "name": "jobiols/odoo-addons",
@@ -89,6 +103,10 @@ REPOS = [
         "url": "https://github.com/ingadhoc/product.git",
     },
     {
+        "name": "ingadhoc/project",
+        "url": "https://github.com/ingadhoc/project.git",
+    },
+    {
         "name": "ingadhoc/sale",
         "url": "https://github.com/ingadhoc/sale.git",
     },
@@ -128,6 +146,10 @@ REPOS = [
     {
         "name": "OCA/contract",
         "url": "https://github.com/OCA/contract.git",
+    },
+    {
+        "name": "OCA/geospatial",
+        "url": "https://github.com/OCA/geospatial.git",
     },
     {
         "name": "OCA/helpdesk",
