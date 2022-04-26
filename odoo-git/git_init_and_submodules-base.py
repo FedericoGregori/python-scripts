@@ -60,11 +60,6 @@ REPOS = [
         "name": "ctmil/payment_mercadopago",
         "url": "https://github.com/ctmil/payment_mercadopago.git",
     },
-    ## Jorge Obiols
-    {
-        "name": "jobiols/odoo-addons",
-        "url": "https://github.com/jobiols/odoo-addons.git",
-    },
     ## ADHOC
     {
         "name": "ingadhoc/account-financial-tools",
@@ -77,10 +72,6 @@ REPOS = [
     {
         "name": "ingadhoc/account-payment",
         "url": "https://github.com/ingadhoc/account-payment.git",
-    },
-    {
-        "name": "ingadhoc/aeroo_reports",
-        "url": "https://github.com/ingadhoc/aeroo_reports.git",
     },
     {
         "name": "ingadhoc/argentina-sale",
