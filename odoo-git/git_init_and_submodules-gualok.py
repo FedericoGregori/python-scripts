@@ -78,6 +78,10 @@ REPOS = [
         "url": "https://github.com/ingadhoc/account-payment.git",
     },
     {
+        "name": "ingadhoc/aeroo_reports",
+        "url": "https://github.com/ingadhoc/aeroo_reports.git",
+    },
+    {
         "name": "ingadhoc/argentina-sale",
         "url": "https://github.com/ingadhoc/argentina-sale.git",
     },
