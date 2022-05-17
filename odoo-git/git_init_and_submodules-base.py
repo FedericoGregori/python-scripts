@@ -90,6 +90,10 @@ REPOS = [
         "url": "https://github.com/ingadhoc/odoo-argentina-ce.git",
     },
     {
+        "name": "ingadhoc/partner",
+        "url": "https://github.com/ingadhoc/partner.git",
+    },
+    {
         "name": "ingadhoc/product",
         "url": "https://github.com/ingadhoc/product.git",
     },
