@@ -163,6 +163,10 @@ REPOS = [
         "url": "https://github.com/OCA/management-system.git",
     },
     {
+        "name": "OCA/manufacture",
+        "url": "https://github.com/OCA/manufacture.git",
+    },
+    {
         "name": "OCA/mis-builder",
         "url": "https://github.com/OCA/mis-builder.git",
     },
