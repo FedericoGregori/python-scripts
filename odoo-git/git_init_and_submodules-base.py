@@ -43,6 +43,26 @@ REPOS = [
         "url": "https://github.com/calyx-servicios/account-invoicing.git",
     },
     {
+        "name": "calyx-servicios/account-payment",
+        "url": "https://github.com/calyx-servicios/account-payment.git",
+    },
+    {
+        "name": "calyx-servicios/l10n-ar",
+        "url": "https://github.com/calyx-servicios/l10n-ar.git",
+    },
+    {
+        "name": "calyx-servicios/multi-store",
+        "url": "https://github.com/calyx-servicios/multi-store.git",
+    },
+    {
+        "name": "calyx-servicios/pos",
+        "url": "https://github.com/calyx-servicios/account-payment.git",
+    },
+    {
+        "name": "calyx-servicios/sale",
+        "url": "https://github.com/calyx-servicios/account-payment.git",
+    },
+    {
         "name": "calyx-servicios/third-party-apps",
         "url": "https://github.com/calyx-servicios/third-party-apps.git",
     },
@@ -72,6 +92,10 @@ REPOS = [
     {
         "name": "ingadhoc/account-payment",
         "url": "https://github.com/ingadhoc/account-payment.git",
+    },
+    {
+        "name": "ingadhoc/aeroo_reports",
+        "url": "https://github.com/ingadhoc/aeroo_reports.git",
     },
     {
         "name": "ingadhoc/argentina-sale",
