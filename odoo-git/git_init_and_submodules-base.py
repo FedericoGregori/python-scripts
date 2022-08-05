@@ -151,6 +151,14 @@ REPOS = [
         "url": "https://github.com/OCA/account-financial-tools.git",
     },
     {
+        "name": "OCA/account-invoice-reporting",
+        "url": "https://github.com/OCA/account-invoice-reporting.git",
+    },
+    {
+        "name": "OCA/account-invoicing",
+        "url": "https://github.com/OCA/account-invoicing.git",
+    },
+    {
         "name": "OCA/account-reconcile",
         "url": "https://github.com/OCA/account-reconcile.git",
     },
@@ -173,6 +181,10 @@ REPOS = [
     {
         "name": "OCA/helpdesk",
         "url": "https://github.com/OCA/helpdesk.git",
+    },
+    {
+        "name": "OCA/hr",
+        "url": "https://github.com/OCA/hr.git",
     },
     {
         "name": "OCA/hr-expense",
@@ -203,8 +215,16 @@ REPOS = [
         "url": "https://github.com/OCA/partner-contact.git",
     },
     {
+        "name": "OCA/product-attribute",
+        "url": "https://github.com/OCA/product-attribute.git",
+    },
+    {
         "name": "OCA/product-variant",
         "url": "https://github.com/OCA/product-variant.git",
+    },
+    {
+        "name": "OCA/project",
+        "url": "https://github.com/OCA/project.git",
     },
     {
         "name": "OCA/purchase-workflow",
@@ -235,8 +255,20 @@ REPOS = [
         "url": "https://github.com/OCA/server-ux.git",
     },
     {
+        "name": "OCA/social",
+        "url": "https://github.com/OCA/social.git",
+    },
+    {
+        "name": "OCA/stock-logistics-barcode",
+        "url": "https://github.com/OCA/stock-logistics-barcode.git",
+    },
+    {
         "name": "OCA/stock-logistics-warehouse",
         "url": "https://github.com/OCA/stock-logistics-warehouse.git",
+    },
+    {
+        "name": "OCA/stock-logistics-workflow",
+        "url": "https://github.com/OCA/stock-logistics-workflow.git",
     },
     {
         "name": "OCA/web",
